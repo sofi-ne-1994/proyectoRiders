@@ -22,7 +22,7 @@
         </nav>
     </header>
 
-    <!-- Main con Carrusel -->
+    <!-- Main con Carrouseeeel -->
     <main>
         <section class="carrusel">
             <div class="slide"><img src="https://img.freepik.com/foto-gratis/cicatrizarse-ciclista-mujer-outdors_23-2149647428.jpg?t=st=1733439354~exp=1733442954~hmac=b7d63b9aa1825fe9874a53addf63d57596ca69a32dc2d7a5d45b0b79d37350e6&w=740" alt="Imagen 1"></div>
